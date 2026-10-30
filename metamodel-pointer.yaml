@@ -1,25 +1,32 @@
 # Metamodel Pointer — AI/ML Model
-# Auto-generated from OpenDEAM v0.2.1 (dea-architecture-framework, ADR-0002).
-# Do not edit manually — allocation changes go through the root model
-# (structural: ADR + minor bump; additive: PR + patch bump).
-metamodel:
-  version: v0.2.1
-  entity_id: dea:entity-ai-ml-model
-  class_alias: AIM
-  layer: L4
-  building_block: L4-intelligence
-  viewer_url: "https://technehub-labs.github.io/metamodel/?entity=AIM"
-
-catalog:
-  name: AI/ML Model
-  repo: technehub-labs/dea-catalog-ai-ml-models
-  status: planned
-
+#
+# Two consumers, two blocks (see FOUNDATIONS §5):
+#   - the top-level identity keys are consumed by the vendored
+#     regenerate_catalog.py to build CATALOG.yaml's catalog block;
+#   - the `metamodel:` allocation block is validated by
+#     dea-architecture-framework validate-against-model.yml
+#     against the pinned root-model ref (v0.8.0), and asserted
+#     locally by scripts/check_pointer.py.
+#
+# Allocation changes go through the root model, not this file.
+id: dea:catalog-ai-ml-models
+name: AI/ML Model
+abbreviation: AIM
+version: 0.1.0
+status: active
+metamodel_version: 1.0.0
+owner: TechNeHub Labs
 description: |
-  A machine-learning or AI model that augments or replaces human decision-making within a capability.
-
+  A machine-learning or AI model that augments or replaces human decision-making within a capability. May declare governed_by (RSK/CTL/REG ids) per the ai-automation-governance dimension.
+metamodel:
+  building_block: L4-intelligence
+  class_alias: AIM
+  entity_id: dea:entity-ai-ml-model
+  layer: L4
+  version: v0.8.0
+  viewer_url: https://technehub-labs.github.io/metamodel/?entity=AIM
 links:
   metamodel_repo: https://github.com/technehub-labs/dea-metamodel
   root_model: https://github.com/technehub-labs/dea-architecture-framework
-  viewer: "https://technehub-labs.github.io/metamodel/?entity=AIM"
+  viewer: https://technehub-labs.github.io/metamodel/?entity=AIM
   github: https://github.com/technehub-labs/dea-catalog-ai-ml-models
