@@ -1,6 +1,8 @@
-# AIM-CAT-04: AIMLModel Candidate Admission Batch 01 (0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF … ZhengPeng7/BiRefNet)
+# CR-CR-AIM-CAT-04: AIMLModel Candidate Admission Batch 01 (0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF … ZhengPeng7/BiRefNet)
 
 **Status**: Landed (this PR)
+
+**Naming/numbering correction**: this CR landed as `AIM-CAT-04` without the house `CR-` prefix (driver defect, fixed in the programme tooling). Renamed to `CR-AIM-CAT-04` by the naming-correction CR (CR-AIM-CAT-05); content unchanged.
 **Layer**: Catalog content (candidate corpus admission)
 **Owner**: Emmanuel A. Otchere
 **Date**: 2026-11-15

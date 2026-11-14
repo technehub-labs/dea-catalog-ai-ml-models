@@ -1,6 +1,8 @@
-# AIM-CAT-03: AIMLModel Candidate Corpus
+# CR-CR-AIM-CAT-03: AIMLModel Candidate Corpus
 
 **Status**: Landed (this PR)
+
+**Naming/numbering correction**: this CR landed as `AIM-CAT-03` without the house `CR-` prefix (driver defect, fixed in the programme tooling). Renamed to `CR-AIM-CAT-03` by the naming-correction CR (CR-AIM-CAT-05); content unchanged.
 **Layer**: Catalog content (candidate corpus intake)
 **Owner**: Emmanuel A. Otchere
 **Date**: 2026-11-15
