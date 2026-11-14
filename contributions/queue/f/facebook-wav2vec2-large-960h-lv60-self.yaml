@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face facebook/wav2vec2-large-960h-lv60-self
+name: facebook/wav2vec2-large-960h-lv60-self
+description: 'facebook/wav2vec2-large-960h-lv60-self — a published model artifact in the Hugging Face
+  public model registry (pipeline: automatic-speech-recognition; ~628464 downloads; served from https://huggingface.co/facebook/wav2vec2-large-960h-lv60-self).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/facebook/wav2vec2-large-960h-lv60-self (Hugging Face model card;
+      pipeline automatic-speech-recognition; downloads 628464)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- automatic-speech-recognition
+- facebook
+slug: facebook-wav2vec2-large-960h-lv60-self

@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face audeering/wav2vec2-large-robust-24-ft-age-gender
+name: audeering/wav2vec2-large-robust-24-ft-age-gender
+description: 'audeering/wav2vec2-large-robust-24-ft-age-gender — a published model artifact in the Hugging
+  Face public model registry (pipeline: audio-classification; ~2361587 downloads; served from https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/audeering/wav2vec2-large-robust-24-ft-age-gender (Hugging Face model
+      card; pipeline audio-classification; downloads 2361587)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- audio-classification
+- audeering
+slug: audeering-wav2vec2-large-robust-24-ft-age-gender

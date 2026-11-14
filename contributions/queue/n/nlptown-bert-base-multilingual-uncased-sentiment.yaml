@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face nlptown/bert-base-multilingual-uncased-sentiment
+name: nlptown/bert-base-multilingual-uncased-sentiment
+description: 'nlptown/bert-base-multilingual-uncased-sentiment — a published model artifact in the Hugging
+  Face public model registry (pipeline: text-classification; ~564250 downloads; served from https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment (Hugging Face model
+      card; pipeline text-classification; downloads 564250)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- text-classification
+- nlptown
+slug: nlptown-bert-base-multilingual-uncased-sentiment

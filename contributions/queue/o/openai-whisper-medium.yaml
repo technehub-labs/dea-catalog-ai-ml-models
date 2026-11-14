@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face openai/whisper-medium
+name: openai/whisper-medium
+description: 'openai/whisper-medium — a published model artifact in the Hugging Face public model registry
+  (pipeline: automatic-speech-recognition; ~367291 downloads; served from https://huggingface.co/openai/whisper-medium).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/openai/whisper-medium (Hugging Face model card; pipeline automatic-speech-recognition;
+      downloads 367291)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- automatic-speech-recognition
+- openai
+slug: openai-whisper-medium

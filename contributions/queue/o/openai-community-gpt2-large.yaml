@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face openai-community/gpt2-large
+name: openai-community/gpt2-large
+description: 'openai-community/gpt2-large — a published model artifact in the Hugging Face public model
+  registry (pipeline: text-generation; ~1032779 downloads; served from https://huggingface.co/openai-community/gpt2-large).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/openai-community/gpt2-large (Hugging Face model card; pipeline text-generation;
+      downloads 1032779)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- text-generation
+- openai-community
+slug: openai-community-gpt2-large

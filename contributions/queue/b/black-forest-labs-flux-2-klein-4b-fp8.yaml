@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face black-forest-labs/FLUX.2-klein-4b-fp8
+name: black-forest-labs/FLUX.2-klein-4b-fp8
+description: 'black-forest-labs/FLUX.2-klein-4b-fp8 — a published model artifact in the Hugging Face public
+  model registry (pipeline: image-to-image; ~560308 downloads; served from https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8 (Hugging Face model card;
+      pipeline image-to-image; downloads 560308)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- image-to-image
+- black-forest-labs
+slug: black-forest-labs-flux-2-klein-4b-fp8

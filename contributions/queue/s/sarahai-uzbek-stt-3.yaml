@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face sarahai/uzbek-stt-3
+name: sarahai/uzbek-stt-3
+description: 'sarahai/uzbek-stt-3 — a published model artifact in the Hugging Face public model registry
+  (pipeline: automatic-speech-recognition; ~436440 downloads; served from https://huggingface.co/sarahai/uzbek-stt-3).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/sarahai/uzbek-stt-3 (Hugging Face model card; pipeline automatic-speech-recognition;
+      downloads 436440)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- automatic-speech-recognition
+- sarahai
+slug: sarahai-uzbek-stt-3

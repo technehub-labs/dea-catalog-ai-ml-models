@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face soyaakinohara/Spark-X2.5-4B-Heretic-jp-gguf
+name: soyaakinohara/Spark-X2.5-4B-Heretic-jp-gguf
+description: 'soyaakinohara/Spark-X2.5-4B-Heretic-jp-gguf — a published model artifact in the Hugging
+  Face public model registry (pipeline: text-generation; ~594486 downloads; served from https://huggingface.co/soyaakinohara/Spark-X2.5-4B-Heretic-jp-gguf).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/soyaakinohara/Spark-X2.5-4B-Heretic-jp-gguf (Hugging Face model
+      card; pipeline text-generation; downloads 594486)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- text-generation
+- soyaakinohara
+slug: soyaakinohara-spark-x2-5-4b-heretic-jp-gguf
