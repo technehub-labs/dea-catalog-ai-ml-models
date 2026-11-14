@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face Marqo/nsfw-image-detection-384
 name: Marqo/nsfw-image-detection-384
-description: 'Marqo/nsfw-image-detection-384 — a published model artifact in the Hugging Face public model
-  registry (pipeline: image-classification; ~621893 downloads; served from https://huggingface.co/Marqo/nsfw-image-detection-384).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'Marqo/nsfw-image-detection-384 — a published model artifact in the Hugging
+  Face public model registry (pipeline: image-classification; ~621893 downloads; served
+  from https://huggingface.co/Marqo/nsfw-image-detection-384). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/Marqo/nsfw-image-detection-384 (Hugging Face model card; pipeline
-      image-classification; downloads 621893)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/Marqo/nsfw-image-detection-384 (Hugging Face
+      model card; pipeline image-classification; downloads 621893)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-classification
 - marqo
 slug: marqo-nsfw-image-detection-384
+assigned_id: dea:ai-ml-model-marqo-nsfw-image-detection-384-5ankwe
+admitted: '2026-11-14'

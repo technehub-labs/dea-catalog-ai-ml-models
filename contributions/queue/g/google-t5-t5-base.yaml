@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face google-t5/t5-base
 name: google-t5/t5-base
-description: 'google-t5/t5-base — a published model artifact in the Hugging Face public model registry
-  (pipeline: translation; ~2872417 downloads; served from https://huggingface.co/google-t5/t5-base). Entity-specific
-  operational fields are provisional candidate values.'
+description: 'google-t5/t5-base — a published model artifact in the Hugging Face public
+  model registry (pipeline: translation; ~2872417 downloads; served from https://huggingface.co/google-t5/t5-base).
+  Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/google-t5/t5-base (Hugging Face model card; pipeline translation;
-      downloads 2872417)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/google-t5/t5-base (Hugging Face model card;
+      pipeline translation; downloads 2872417)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - translation
 - google-t5
 slug: google-t5-t5-base
+assigned_id: dea:ai-ml-model-google-t5-t5-base-g6uf9p
+admitted: '2026-11-14'

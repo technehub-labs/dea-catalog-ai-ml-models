@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face Falconsai/nsfw_image_detection
 name: Falconsai/nsfw_image_detection
-description: 'Falconsai/nsfw_image_detection — a published model artifact in the Hugging Face public model
-  registry (pipeline: image-classification; ~1602554 downloads; served from https://huggingface.co/Falconsai/nsfw_image_detection).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'Falconsai/nsfw_image_detection — a published model artifact in the Hugging
+  Face public model registry (pipeline: image-classification; ~1602554 downloads;
+  served from https://huggingface.co/Falconsai/nsfw_image_detection). Entity-specific
+  operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/Falconsai/nsfw_image_detection (Hugging Face model card; pipeline
-      image-classification; downloads 1602554)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/Falconsai/nsfw_image_detection (Hugging Face
+      model card; pipeline image-classification; downloads 1602554)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-classification
 - falconsai
 slug: falconsai-nsfw-image-detection
+assigned_id: dea:ai-ml-model-falconsai-nsfw-image-detection-p8exw8
+admitted: '2026-11-14'

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp
 name: McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp
-description: 'McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp — a published model artifact in the Hugging
-  Face public model registry (pipeline: sentence-similarity; ~430328 downloads; served from https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp).
+description: 'McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp — a published model
+  artifact in the Hugging Face public model registry (pipeline: sentence-similarity;
+  ~430328 downloads; served from https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp (Hugging Face model
-      card; pipeline sentence-similarity; downloads 430328)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp
+      (Hugging Face model card; pipeline sentence-similarity; downloads 430328)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - sentence-similarity
 - mcgill-nlp
 slug: mcgill-nlp-llm2vec-meta-llama-3-8b-instruct-mntp
+assigned_id: dea:ai-ml-model-mcgill-nlp-llm2vec-meta-llama-3-8b-instruct-mntp-t9pwn7
+admitted: '2026-11-14'

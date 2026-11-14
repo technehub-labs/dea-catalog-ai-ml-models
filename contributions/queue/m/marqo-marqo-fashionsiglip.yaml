@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face Marqo/marqo-fashionSigLIP
 name: Marqo/marqo-fashionSigLIP
-description: 'Marqo/marqo-fashionSigLIP — a published model artifact in the Hugging Face public model
-  registry (pipeline: zero-shot-image-classification; ~421302 downloads; served from https://huggingface.co/Marqo/marqo-fashionSigLIP).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'Marqo/marqo-fashionSigLIP — a published model artifact in the Hugging
+  Face public model registry (pipeline: zero-shot-image-classification; ~421302 downloads;
+  served from https://huggingface.co/Marqo/marqo-fashionSigLIP). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/Marqo/marqo-fashionSigLIP (Hugging Face model card; pipeline zero-shot-image-classification;
-      downloads 421302)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/Marqo/marqo-fashionSigLIP (Hugging Face model
+      card; pipeline zero-shot-image-classification; downloads 421302)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - zero-shot-image-classification
 - marqo
 slug: marqo-marqo-fashionsiglip
+assigned_id: dea:ai-ml-model-marqo-marqo-fashionsiglip-g893jm
+admitted: '2026-11-14'

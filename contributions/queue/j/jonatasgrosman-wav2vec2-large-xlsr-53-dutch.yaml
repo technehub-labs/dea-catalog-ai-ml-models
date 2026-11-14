@@ -1,22 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face jonatasgrosman/wav2vec2-large-xlsr-53-dutch
 name: jonatasgrosman/wav2vec2-large-xlsr-53-dutch
-description: 'jonatasgrosman/wav2vec2-large-xlsr-53-dutch — a published model artifact in the Hugging
-  Face public model registry (pipeline: automatic-speech-recognition; ~1748065 downloads; served from
-  https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch). Entity-specific operational fields
-  are provisional candidate values.'
+description: 'jonatasgrosman/wav2vec2-large-xlsr-53-dutch — a published model artifact
+  in the Hugging Face public model registry (pipeline: automatic-speech-recognition;
+  ~1748065 downloads; served from https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch).
+  Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch (Hugging Face model
-      card; pipeline automatic-speech-recognition; downloads 1748065)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-dutch
+      (Hugging Face model card; pipeline automatic-speech-recognition; downloads 1748065)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - automatic-speech-recognition
 - jonatasgrosman
 slug: jonatasgrosman-wav2vec2-large-xlsr-53-dutch
+assigned_id: dea:ai-ml-model-jonatasgrosman-wav2vec2-large-xlsr-53-dutch-rkgj7d
+admitted: '2026-11-14'

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face datalab-to/chandra-ocr-2
 name: datalab-to/chandra-ocr-2
-description: 'datalab-to/chandra-ocr-2 — a published model artifact in the Hugging Face public model registry
-  (pipeline: image-text-to-text; ~1340898 downloads; served from https://huggingface.co/datalab-to/chandra-ocr-2).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'datalab-to/chandra-ocr-2 — a published model artifact in the Hugging
+  Face public model registry (pipeline: image-text-to-text; ~1340898 downloads; served
+  from https://huggingface.co/datalab-to/chandra-ocr-2). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/datalab-to/chandra-ocr-2 (Hugging Face model card; pipeline image-text-to-text;
-      downloads 1340898)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/datalab-to/chandra-ocr-2 (Hugging Face model
+      card; pipeline image-text-to-text; downloads 1340898)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - datalab-to
 slug: datalab-to-chandra-ocr-2
+assigned_id: dea:ai-ml-model-datalab-to-chandra-ocr-2-3tc759
+admitted: '2026-11-14'

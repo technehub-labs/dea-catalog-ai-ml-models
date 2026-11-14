@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face nvidia/Cosmos-Reason2-2B
 name: nvidia/Cosmos-Reason2-2B
-description: 'nvidia/Cosmos-Reason2-2B — a published model artifact in the Hugging Face public model registry
-  (pipeline: image-text-to-text; ~515573 downloads; served from https://huggingface.co/nvidia/Cosmos-Reason2-2B).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'nvidia/Cosmos-Reason2-2B — a published model artifact in the Hugging
+  Face public model registry (pipeline: image-text-to-text; ~515573 downloads; served
+  from https://huggingface.co/nvidia/Cosmos-Reason2-2B). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/nvidia/Cosmos-Reason2-2B (Hugging Face model card; pipeline image-text-to-text;
-      downloads 515573)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/nvidia/Cosmos-Reason2-2B (Hugging Face model
+      card; pipeline image-text-to-text; downloads 515573)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - nvidia
 slug: nvidia-cosmos-reason2-2b
+assigned_id: dea:ai-ml-model-nvidia-cosmos-reason2-2b-k3cjqy
+admitted: '2026-11-14'

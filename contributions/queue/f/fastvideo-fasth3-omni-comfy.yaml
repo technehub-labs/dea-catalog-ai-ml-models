@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face FastVideo/FastH3-Omni-Comfy
 name: FastVideo/FastH3-Omni-Comfy
-description: 'FastVideo/FastH3-Omni-Comfy — a published model artifact in the Hugging Face public model
-  registry (pipeline: unspecified; ~745795 downloads; served from https://huggingface.co/FastVideo/FastH3-Omni-Comfy).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'FastVideo/FastH3-Omni-Comfy — a published model artifact in the Hugging
+  Face public model registry (pipeline: unspecified; ~745795 downloads; served from
+  https://huggingface.co/FastVideo/FastH3-Omni-Comfy). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/FastVideo/FastH3-Omni-Comfy (Hugging Face model card; pipeline unspecified;
-      downloads 745795)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/FastVideo/FastH3-Omni-Comfy (Hugging Face model
+      card; pipeline unspecified; downloads 745795)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - unspecified
 - fastvideo
 slug: fastvideo-fasth3-omni-comfy
+assigned_id: dea:ai-ml-model-fastvideo-fasth3-omni-comfy-vjtrdz
+admitted: '2026-11-14'

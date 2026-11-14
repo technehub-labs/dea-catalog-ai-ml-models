@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face turintech/gemma-4-E2B-it-Artemis-GGUF
 name: turintech/gemma-4-E2B-it-Artemis-GGUF
-description: 'turintech/gemma-4-E2B-it-Artemis-GGUF — a published model artifact in the Hugging Face public
-  model registry (pipeline: image-text-to-text; ~677214 downloads; served from https://huggingface.co/turintech/gemma-4-E2B-it-Artemis-GGUF).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'turintech/gemma-4-E2B-it-Artemis-GGUF — a published model artifact in
+  the Hugging Face public model registry (pipeline: image-text-to-text; ~677214 downloads;
+  served from https://huggingface.co/turintech/gemma-4-E2B-it-Artemis-GGUF). Entity-specific
+  operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/turintech/gemma-4-E2B-it-Artemis-GGUF (Hugging Face model card;
-      pipeline image-text-to-text; downloads 677214)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/turintech/gemma-4-E2B-it-Artemis-GGUF (Hugging
+      Face model card; pipeline image-text-to-text; downloads 677214)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - turintech
 slug: turintech-gemma-4-e2b-it-artemis-gguf
+assigned_id: dea:ai-ml-model-turintech-gemma-4-e2b-it-artemis-gguf-j7pc7r
+admitted: '2026-11-14'

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face Jackrong/Qwopus3.8-27B-Flash-V2-GGUF
 name: Jackrong/Qwopus3.8-27B-Flash-V2-GGUF
-description: 'Jackrong/Qwopus3.8-27B-Flash-V2-GGUF — a published model artifact in the Hugging Face public
-  model registry (pipeline: image-text-to-text; ~882580 downloads; served from https://huggingface.co/Jackrong/Qwopus3.8-27B-Flash-V2-GGUF).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'Jackrong/Qwopus3.8-27B-Flash-V2-GGUF — a published model artifact in
+  the Hugging Face public model registry (pipeline: image-text-to-text; ~882580 downloads;
+  served from https://huggingface.co/Jackrong/Qwopus3.8-27B-Flash-V2-GGUF). Entity-specific
+  operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/Jackrong/Qwopus3.8-27B-Flash-V2-GGUF (Hugging Face model card; pipeline
-      image-text-to-text; downloads 882580)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/Jackrong/Qwopus3.8-27B-Flash-V2-GGUF (Hugging
+      Face model card; pipeline image-text-to-text; downloads 882580)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - jackrong
 slug: jackrong-qwopus3-8-27b-flash-v2-gguf
+assigned_id: dea:ai-ml-model-jackrong-qwopus3-8-27b-flash-v2-gguf-b26sq9
+admitted: '2026-11-14'

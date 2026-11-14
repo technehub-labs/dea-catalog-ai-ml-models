@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face autotrust/AutoTrust-Decider-Mini-9B
 name: autotrust/AutoTrust-Decider-Mini-9B
-description: 'autotrust/AutoTrust-Decider-Mini-9B — a published model artifact in the Hugging Face public
-  model registry (pipeline: text-classification; ~660323 downloads; served from https://huggingface.co/autotrust/AutoTrust-Decider-Mini-9B).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'autotrust/AutoTrust-Decider-Mini-9B — a published model artifact in
+  the Hugging Face public model registry (pipeline: text-classification; ~660323 downloads;
+  served from https://huggingface.co/autotrust/AutoTrust-Decider-Mini-9B). Entity-specific
+  operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/autotrust/AutoTrust-Decider-Mini-9B (Hugging Face model card; pipeline
-      text-classification; downloads 660323)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/autotrust/AutoTrust-Decider-Mini-9B (Hugging
+      Face model card; pipeline text-classification; downloads 660323)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-classification
 - autotrust
 slug: autotrust-autotrust-decider-mini-9b
+assigned_id: dea:ai-ml-model-autotrust-autotrust-decider-mini-9b-ugt9tm
+admitted: '2026-11-14'

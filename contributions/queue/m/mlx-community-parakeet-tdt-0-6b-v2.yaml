@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face mlx-community/parakeet-tdt-0.6b-v2
 name: mlx-community/parakeet-tdt-0.6b-v2
-description: 'mlx-community/parakeet-tdt-0.6b-v2 — a published model artifact in the Hugging Face public
-  model registry (pipeline: automatic-speech-recognition; ~866881 downloads; served from https://huggingface.co/mlx-community/parakeet-tdt-0.6b-v2).
+description: 'mlx-community/parakeet-tdt-0.6b-v2 — a published model artifact in the
+  Hugging Face public model registry (pipeline: automatic-speech-recognition; ~866881
+  downloads; served from https://huggingface.co/mlx-community/parakeet-tdt-0.6b-v2).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/mlx-community/parakeet-tdt-0.6b-v2 (Hugging Face model card; pipeline
-      automatic-speech-recognition; downloads 866881)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/mlx-community/parakeet-tdt-0.6b-v2 (Hugging
+      Face model card; pipeline automatic-speech-recognition; downloads 866881)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - automatic-speech-recognition
 - mlx-community
 slug: mlx-community-parakeet-tdt-0-6b-v2
+assigned_id: dea:ai-ml-model-mlx-community-parakeet-tdt-0-6b-v2-ktezjw
+admitted: '2026-11-14'

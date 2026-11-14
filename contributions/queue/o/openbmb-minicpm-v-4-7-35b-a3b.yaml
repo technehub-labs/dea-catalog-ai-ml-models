@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face openbmb/MiniCPM-V-4.7-35B-A3B
 name: openbmb/MiniCPM-V-4.7-35B-A3B
-description: 'openbmb/MiniCPM-V-4.7-35B-A3B — a published model artifact in the Hugging Face public model
-  registry (pipeline: image-text-to-text; ~759669 downloads; served from https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'openbmb/MiniCPM-V-4.7-35B-A3B — a published model artifact in the Hugging
+  Face public model registry (pipeline: image-text-to-text; ~759669 downloads; served
+  from https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B (Hugging Face model card; pipeline
-      image-text-to-text; downloads 759669)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B (Hugging Face
+      model card; pipeline image-text-to-text; downloads 759669)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - openbmb
 slug: openbmb-minicpm-v-4-7-35b-a3b
+assigned_id: dea:ai-ml-model-openbmb-minicpm-v-4-7-35b-a3b-krquaj
+admitted: '2026-11-14'

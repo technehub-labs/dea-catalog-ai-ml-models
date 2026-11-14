@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face obi/deid_roberta_i2b2
 name: obi/deid_roberta_i2b2
-description: 'obi/deid_roberta_i2b2 — a published model artifact in the Hugging Face public model registry
-  (pipeline: token-classification; ~394021 downloads; served from https://huggingface.co/obi/deid_roberta_i2b2).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'obi/deid_roberta_i2b2 — a published model artifact in the Hugging Face
+  public model registry (pipeline: token-classification; ~394021 downloads; served
+  from https://huggingface.co/obi/deid_roberta_i2b2). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/obi/deid_roberta_i2b2 (Hugging Face model card; pipeline token-classification;
-      downloads 394021)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/obi/deid_roberta_i2b2 (Hugging Face model card;
+      pipeline token-classification; downloads 394021)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - token-classification
 - obi
 slug: obi-deid-roberta-i2b2
+assigned_id: dea:ai-ml-model-obi-deid-roberta-i2b2-7je2d8
+admitted: '2026-11-14'

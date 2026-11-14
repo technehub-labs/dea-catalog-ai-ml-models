@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face cardiffnlp/twitter-xlm-roberta-base-sentiment
 name: cardiffnlp/twitter-xlm-roberta-base-sentiment
-description: 'cardiffnlp/twitter-xlm-roberta-base-sentiment — a published model artifact in the Hugging
-  Face public model registry (pipeline: text-classification; ~508475 downloads; served from https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment).
+description: 'cardiffnlp/twitter-xlm-roberta-base-sentiment — a published model artifact
+  in the Hugging Face public model registry (pipeline: text-classification; ~508475
+  downloads; served from https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment (Hugging Face model
-      card; pipeline text-classification; downloads 508475)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment
+      (Hugging Face model card; pipeline text-classification; downloads 508475)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-classification
 - cardiffnlp
 slug: cardiffnlp-twitter-xlm-roberta-base-sentiment
+assigned_id: dea:ai-ml-model-cardiffnlp-twitter-xlm-roberta-base-sentiment-6h5sfr
+admitted: '2026-11-14'

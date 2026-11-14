@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF
 name: ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF
-description: 'ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF — a published model artifact in the Hugging
-  Face public model registry (pipeline: image-text-to-text; ~789435 downloads; served from https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF).
+description: 'ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF — a published model
+  artifact in the Hugging Face public model registry (pipeline: image-text-to-text;
+  ~789435 downloads; served from https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF (Hugging Face
-      model card; pipeline image-text-to-text; downloads 789435)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF
+      (Hugging Face model card; pipeline image-text-to-text; downloads 789435)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - ista-daslab
 slug: ista-daslab-qwen3-8-flash-next-gsq-rco-coder-ggu
+assigned_id: dea:ai-ml-model-ista-daslab-qwen3-8-flash-next-gsq-rco-coder-ggu-2ecb8w
+admitted: '2026-11-14'

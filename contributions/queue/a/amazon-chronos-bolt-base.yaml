@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face amazon/chronos-bolt-base
 name: amazon/chronos-bolt-base
-description: 'amazon/chronos-bolt-base — a published model artifact in the Hugging Face public model registry
-  (pipeline: time-series-forecasting; ~600893 downloads; served from https://huggingface.co/amazon/chronos-bolt-base).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'amazon/chronos-bolt-base — a published model artifact in the Hugging
+  Face public model registry (pipeline: time-series-forecasting; ~600893 downloads;
+  served from https://huggingface.co/amazon/chronos-bolt-base). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/amazon/chronos-bolt-base (Hugging Face model card; pipeline time-series-forecasting;
-      downloads 600893)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/amazon/chronos-bolt-base (Hugging Face model
+      card; pipeline time-series-forecasting; downloads 600893)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - time-series-forecasting
 - amazon
 slug: amazon-chronos-bolt-base
+assigned_id: dea:ai-ml-model-amazon-chronos-bolt-base-6nwxhc
+admitted: '2026-11-14'

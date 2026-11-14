@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face lmstudio-community/Qwen3.5-9B-GGUF
 name: lmstudio-community/Qwen3.5-9B-GGUF
-description: 'lmstudio-community/Qwen3.5-9B-GGUF — a published model artifact in the Hugging Face public
-  model registry (pipeline: unspecified; ~727794 downloads; served from https://huggingface.co/lmstudio-community/Qwen3.5-9B-GGUF).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'lmstudio-community/Qwen3.5-9B-GGUF — a published model artifact in the
+  Hugging Face public model registry (pipeline: unspecified; ~727794 downloads; served
+  from https://huggingface.co/lmstudio-community/Qwen3.5-9B-GGUF). Entity-specific
+  operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/lmstudio-community/Qwen3.5-9B-GGUF (Hugging Face model card; pipeline
-      unspecified; downloads 727794)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/lmstudio-community/Qwen3.5-9B-GGUF (Hugging
+      Face model card; pipeline unspecified; downloads 727794)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - unspecified
 - lmstudio-community
 slug: lmstudio-community-qwen3-5-9b-gguf
+assigned_id: dea:ai-ml-model-lmstudio-community-qwen3-5-9b-gguf-vcaqmc
+admitted: '2026-11-14'

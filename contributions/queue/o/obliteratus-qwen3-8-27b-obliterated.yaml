@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face OBLITERATUS/Qwen3.8-27B-OBLITERATED
 name: OBLITERATUS/Qwen3.8-27B-OBLITERATED
-description: 'OBLITERATUS/Qwen3.8-27B-OBLITERATED — a published model artifact in the Hugging Face public
-  model registry (pipeline: text-generation; ~549849 downloads; served from https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'OBLITERATUS/Qwen3.8-27B-OBLITERATED — a published model artifact in
+  the Hugging Face public model registry (pipeline: text-generation; ~549849 downloads;
+  served from https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED). Entity-specific
+  operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED (Hugging Face model card; pipeline
-      text-generation; downloads 549849)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED (Hugging
+      Face model card; pipeline text-generation; downloads 549849)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-generation
 - obliteratus
 slug: obliteratus-qwen3-8-27b-obliterated
+assigned_id: dea:ai-ml-model-obliteratus-qwen3-8-27b-obliterated-b8kn55
+admitted: '2026-11-14'

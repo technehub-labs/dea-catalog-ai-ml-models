@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
 name: emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
-description: 'emrecan/bert-base-turkish-cased-mean-nli-stsb-tr — a published model artifact in the Hugging
-  Face public model registry (pipeline: sentence-similarity; ~503135 downloads; served from https://huggingface.co/emrecan/bert-base-turkish-cased-mean-nli-stsb-tr).
+description: 'emrecan/bert-base-turkish-cased-mean-nli-stsb-tr — a published model
+  artifact in the Hugging Face public model registry (pipeline: sentence-similarity;
+  ~503135 downloads; served from https://huggingface.co/emrecan/bert-base-turkish-cased-mean-nli-stsb-tr).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/emrecan/bert-base-turkish-cased-mean-nli-stsb-tr (Hugging Face model
-      card; pipeline sentence-similarity; downloads 503135)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/emrecan/bert-base-turkish-cased-mean-nli-stsb-tr
+      (Hugging Face model card; pipeline sentence-similarity; downloads 503135)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - sentence-similarity
 - emrecan
 slug: emrecan-bert-base-turkish-cased-mean-nli-stsb-tr
+assigned_id: dea:ai-ml-model-emrecan-bert-base-turkish-cased-mean-nli-stsb-tr-gkd9zt
+admitted: '2026-11-14'

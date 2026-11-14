@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face FacebookAI/roberta-base
 name: FacebookAI/roberta-base
-description: 'FacebookAI/roberta-base — a published model artifact in the Hugging Face public model registry
-  (pipeline: fill-mask; ~6020143 downloads; served from https://huggingface.co/FacebookAI/roberta-base).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'FacebookAI/roberta-base — a published model artifact in the Hugging
+  Face public model registry (pipeline: fill-mask; ~6020143 downloads; served from
+  https://huggingface.co/FacebookAI/roberta-base). Entity-specific operational fields
+  are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/FacebookAI/roberta-base (Hugging Face model card; pipeline fill-mask;
-      downloads 6020143)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/FacebookAI/roberta-base (Hugging Face model
+      card; pipeline fill-mask; downloads 6020143)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - fill-mask
 - facebookai
 slug: facebookai-roberta-base
+assigned_id: dea:ai-ml-model-facebookai-roberta-base-aqfcdv
+admitted: '2026-11-14'

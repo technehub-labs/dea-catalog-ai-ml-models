@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face naver/efficient-splade-VI-BT-large-doc
 name: naver/efficient-splade-VI-BT-large-doc
-description: 'naver/efficient-splade-VI-BT-large-doc — a published model artifact in the Hugging Face
-  public model registry (pipeline: feature-extraction; ~425601 downloads; served from https://huggingface.co/naver/efficient-splade-VI-BT-large-doc).
+description: 'naver/efficient-splade-VI-BT-large-doc — a published model artifact
+  in the Hugging Face public model registry (pipeline: feature-extraction; ~425601
+  downloads; served from https://huggingface.co/naver/efficient-splade-VI-BT-large-doc).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/naver/efficient-splade-VI-BT-large-doc (Hugging Face model card;
-      pipeline feature-extraction; downloads 425601)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/naver/efficient-splade-VI-BT-large-doc (Hugging
+      Face model card; pipeline feature-extraction; downloads 425601)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - feature-extraction
 - naver
 slug: naver-efficient-splade-vi-bt-large-doc
+assigned_id: dea:ai-ml-model-naver-efficient-splade-vi-bt-large-doc-7vdtz2
+admitted: '2026-11-14'

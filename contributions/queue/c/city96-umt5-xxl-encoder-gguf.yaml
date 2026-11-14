@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face city96/umt5-xxl-encoder-gguf
 name: city96/umt5-xxl-encoder-gguf
-description: 'city96/umt5-xxl-encoder-gguf — a published model artifact in the Hugging Face public model
-  registry (pipeline: unspecified; ~765413 downloads; served from https://huggingface.co/city96/umt5-xxl-encoder-gguf).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'city96/umt5-xxl-encoder-gguf — a published model artifact in the Hugging
+  Face public model registry (pipeline: unspecified; ~765413 downloads; served from
+  https://huggingface.co/city96/umt5-xxl-encoder-gguf). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/city96/umt5-xxl-encoder-gguf (Hugging Face model card; pipeline
-      unspecified; downloads 765413)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/city96/umt5-xxl-encoder-gguf (Hugging Face model
+      card; pipeline unspecified; downloads 765413)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - unspecified
 - city96
 slug: city96-umt5-xxl-encoder-gguf
+assigned_id: dea:ai-ml-model-city96-umt5-xxl-encoder-gguf-hawb82
+admitted: '2026-11-14'

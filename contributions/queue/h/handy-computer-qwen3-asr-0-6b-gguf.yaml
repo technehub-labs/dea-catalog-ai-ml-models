@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face handy-computer/Qwen3-ASR-0.6B-gguf
 name: handy-computer/Qwen3-ASR-0.6B-gguf
-description: 'handy-computer/Qwen3-ASR-0.6B-gguf — a published model artifact in the Hugging Face public
-  model registry (pipeline: automatic-speech-recognition; ~362893 downloads; served from https://huggingface.co/handy-computer/Qwen3-ASR-0.6B-gguf).
+description: 'handy-computer/Qwen3-ASR-0.6B-gguf — a published model artifact in the
+  Hugging Face public model registry (pipeline: automatic-speech-recognition; ~362893
+  downloads; served from https://huggingface.co/handy-computer/Qwen3-ASR-0.6B-gguf).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/handy-computer/Qwen3-ASR-0.6B-gguf (Hugging Face model card; pipeline
-      automatic-speech-recognition; downloads 362893)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/handy-computer/Qwen3-ASR-0.6B-gguf (Hugging
+      Face model card; pipeline automatic-speech-recognition; downloads 362893)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - automatic-speech-recognition
 - handy-computer
 slug: handy-computer-qwen3-asr-0-6b-gguf
+assigned_id: dea:ai-ml-model-handy-computer-qwen3-asr-0-6b-gguf-v4tpm9
+admitted: '2026-11-14'

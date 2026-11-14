@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face raxcore-dev/Rax-4.5
 name: raxcore-dev/Rax-4.5
-description: 'raxcore-dev/Rax-4.5 — a published model artifact in the Hugging Face public model registry
-  (pipeline: image-text-to-text; ~481497 downloads; served from https://huggingface.co/raxcore-dev/Rax-4.5).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'raxcore-dev/Rax-4.5 — a published model artifact in the Hugging Face
+  public model registry (pipeline: image-text-to-text; ~481497 downloads; served from
+  https://huggingface.co/raxcore-dev/Rax-4.5). Entity-specific operational fields
+  are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/raxcore-dev/Rax-4.5 (Hugging Face model card; pipeline image-text-to-text;
-      downloads 481497)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/raxcore-dev/Rax-4.5 (Hugging Face model card;
+      pipeline image-text-to-text; downloads 481497)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - raxcore-dev
 slug: raxcore-dev-rax-4-5
+assigned_id: dea:ai-ml-model-raxcore-dev-rax-4-5-zahwgj
+admitted: '2026-11-14'

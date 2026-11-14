@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face handy-computer/parakeet-tdt-0.6b-v3-gguf
 name: handy-computer/parakeet-tdt-0.6b-v3-gguf
-description: 'handy-computer/parakeet-tdt-0.6b-v3-gguf — a published model artifact in the Hugging Face
-  public model registry (pipeline: automatic-speech-recognition; ~1207275 downloads; served from https://huggingface.co/handy-computer/parakeet-tdt-0.6b-v3-gguf).
+description: 'handy-computer/parakeet-tdt-0.6b-v3-gguf — a published model artifact
+  in the Hugging Face public model registry (pipeline: automatic-speech-recognition;
+  ~1207275 downloads; served from https://huggingface.co/handy-computer/parakeet-tdt-0.6b-v3-gguf).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/handy-computer/parakeet-tdt-0.6b-v3-gguf (Hugging Face model card;
-      pipeline automatic-speech-recognition; downloads 1207275)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/handy-computer/parakeet-tdt-0.6b-v3-gguf (Hugging
+      Face model card; pipeline automatic-speech-recognition; downloads 1207275)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - automatic-speech-recognition
 - handy-computer
 slug: handy-computer-parakeet-tdt-0-6b-v3-gguf
+assigned_id: dea:ai-ml-model-handy-computer-parakeet-tdt-0-6b-v3-gguf-jpnxg3
+admitted: '2026-11-14'

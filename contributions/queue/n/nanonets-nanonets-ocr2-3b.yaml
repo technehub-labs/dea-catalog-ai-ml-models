@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face nanonets/Nanonets-OCR2-3B
 name: nanonets/Nanonets-OCR2-3B
-description: 'nanonets/Nanonets-OCR2-3B — a published model artifact in the Hugging Face public model
-  registry (pipeline: image-text-to-text; ~741416 downloads; served from https://huggingface.co/nanonets/Nanonets-OCR2-3B).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'nanonets/Nanonets-OCR2-3B — a published model artifact in the Hugging
+  Face public model registry (pipeline: image-text-to-text; ~741416 downloads; served
+  from https://huggingface.co/nanonets/Nanonets-OCR2-3B). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/nanonets/Nanonets-OCR2-3B (Hugging Face model card; pipeline image-text-to-text;
-      downloads 741416)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/nanonets/Nanonets-OCR2-3B (Hugging Face model
+      card; pipeline image-text-to-text; downloads 741416)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - nanonets
 slug: nanonets-nanonets-ocr2-3b
+assigned_id: dea:ai-ml-model-nanonets-nanonets-ocr2-3b-4cxasx
+admitted: '2026-11-14'

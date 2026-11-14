@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face microsoft/Florence-2-base
 name: microsoft/Florence-2-base
-description: 'microsoft/Florence-2-base — a published model artifact in the Hugging Face public model
-  registry (pipeline: image-text-to-text; ~15776936 downloads; served from https://huggingface.co/microsoft/Florence-2-base).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'microsoft/Florence-2-base — a published model artifact in the Hugging
+  Face public model registry (pipeline: image-text-to-text; ~15776936 downloads; served
+  from https://huggingface.co/microsoft/Florence-2-base). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/microsoft/Florence-2-base (Hugging Face model card; pipeline image-text-to-text;
-      downloads 15776936)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/microsoft/Florence-2-base (Hugging Face model
+      card; pipeline image-text-to-text; downloads 15776936)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - microsoft
 slug: microsoft-florence-2-base
+assigned_id: dea:ai-ml-model-microsoft-florence-2-base-bznptt
+admitted: '2026-11-14'

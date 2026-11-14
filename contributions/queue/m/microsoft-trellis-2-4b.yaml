@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face microsoft/TRELLIS.2-4B
 name: microsoft/TRELLIS.2-4B
-description: 'microsoft/TRELLIS.2-4B — a published model artifact in the Hugging Face public model registry
-  (pipeline: image-to-3d; ~2454382 downloads; served from https://huggingface.co/microsoft/TRELLIS.2-4B).
+description: 'microsoft/TRELLIS.2-4B — a published model artifact in the Hugging Face
+  public model registry (pipeline: image-to-3d; ~2454382 downloads; served from https://huggingface.co/microsoft/TRELLIS.2-4B).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/microsoft/TRELLIS.2-4B (Hugging Face model card; pipeline image-to-3d;
-      downloads 2454382)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/microsoft/TRELLIS.2-4B (Hugging Face model card;
+      pipeline image-to-3d; downloads 2454382)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-to-3d
 - microsoft
 slug: microsoft-trellis-2-4b
+assigned_id: dea:ai-ml-model-microsoft-trellis-2-4b-bjtrqz
+admitted: '2026-11-14'
