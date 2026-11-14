@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face ccore/Qwen3.5-4B-3D-Coder
 name: ccore/Qwen3.5-4B-3D-Coder
-description: 'ccore/Qwen3.5-4B-3D-Coder — a published model artifact in the Hugging Face public model
-  registry (pipeline: unspecified; ~416680 downloads; served from https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'ccore/Qwen3.5-4B-3D-Coder — a published model artifact in the Hugging
+  Face public model registry (pipeline: unspecified; ~416680 downloads; served from
+  https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder). Entity-specific operational fields
+  are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder (Hugging Face model card; pipeline unspecified;
-      downloads 416680)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder (Hugging Face model
+      card; pipeline unspecified; downloads 416680)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - unspecified
 - ccore
 slug: ccore-qwen3-5-4b-3d-coder
+assigned_id: dea:ai-ml-model-ccore-qwen3-5-4b-3d-coder-mbmkug
+admitted: '2026-11-14'

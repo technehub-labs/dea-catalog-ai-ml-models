@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face NeoQuasar/Kronos-small
 name: NeoQuasar/Kronos-small
-description: 'NeoQuasar/Kronos-small — a published model artifact in the Hugging Face public model registry
-  (pipeline: time-series-forecasting; ~2906649 downloads; served from https://huggingface.co/NeoQuasar/Kronos-small).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'NeoQuasar/Kronos-small — a published model artifact in the Hugging Face
+  public model registry (pipeline: time-series-forecasting; ~2906649 downloads; served
+  from https://huggingface.co/NeoQuasar/Kronos-small). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/NeoQuasar/Kronos-small (Hugging Face model card; pipeline time-series-forecasting;
-      downloads 2906649)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/NeoQuasar/Kronos-small (Hugging Face model card;
+      pipeline time-series-forecasting; downloads 2906649)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - time-series-forecasting
 - neoquasar
 slug: neoquasar-kronos-small
+assigned_id: dea:ai-ml-model-neoquasar-kronos-small-nrspr2
+admitted: '2026-11-14'

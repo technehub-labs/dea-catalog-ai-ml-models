@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face kindlingai/glm-5.3-exlr8-k2-k3-k4
 name: kindlingai/glm-5.3-exlr8-k2-k3-k4
-description: 'kindlingai/glm-5.3-exlr8-k2-k3-k4 — a published model artifact in the Hugging Face public
-  model registry (pipeline: text-generation; ~1005850 downloads; served from https://huggingface.co/kindlingai/glm-5.3-exlr8-k2-k3-k4).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'kindlingai/glm-5.3-exlr8-k2-k3-k4 — a published model artifact in the
+  Hugging Face public model registry (pipeline: text-generation; ~1005850 downloads;
+  served from https://huggingface.co/kindlingai/glm-5.3-exlr8-k2-k3-k4). Entity-specific
+  operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/kindlingai/glm-5.3-exlr8-k2-k3-k4 (Hugging Face model card; pipeline
-      text-generation; downloads 1005850)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/kindlingai/glm-5.3-exlr8-k2-k3-k4 (Hugging Face
+      model card; pipeline text-generation; downloads 1005850)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-generation
 - kindlingai
 slug: kindlingai-glm-5-3-exlr8-k2-k3-k4
+assigned_id: dea:ai-ml-model-kindlingai-glm-5-3-exlr8-k2-k3-k4-nqxs35
+admitted: '2026-11-14'

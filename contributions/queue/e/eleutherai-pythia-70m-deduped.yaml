@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face EleutherAI/pythia-70m-deduped
 name: EleutherAI/pythia-70m-deduped
-description: 'EleutherAI/pythia-70m-deduped — a published model artifact in the Hugging Face public model
-  registry (pipeline: text-generation; ~567650 downloads; served from https://huggingface.co/EleutherAI/pythia-70m-deduped).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'EleutherAI/pythia-70m-deduped — a published model artifact in the Hugging
+  Face public model registry (pipeline: text-generation; ~567650 downloads; served
+  from https://huggingface.co/EleutherAI/pythia-70m-deduped). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/EleutherAI/pythia-70m-deduped (Hugging Face model card; pipeline
-      text-generation; downloads 567650)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/EleutherAI/pythia-70m-deduped (Hugging Face
+      model card; pipeline text-generation; downloads 567650)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-generation
 - eleutherai
 slug: eleutherai-pythia-70m-deduped
+assigned_id: dea:ai-ml-model-eleutherai-pythia-70m-deduped-quaeag
+admitted: '2026-11-14'

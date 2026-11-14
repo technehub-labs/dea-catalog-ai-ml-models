@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face TinyLlama/TinyLlama-1.1B-Chat-v1.0
 name: TinyLlama/TinyLlama-1.1B-Chat-v1.0
-description: 'TinyLlama/TinyLlama-1.1B-Chat-v1.0 — a published model artifact in the Hugging Face public
-  model registry (pipeline: text-generation; ~946602 downloads; served from https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'TinyLlama/TinyLlama-1.1B-Chat-v1.0 — a published model artifact in the
+  Hugging Face public model registry (pipeline: text-generation; ~946602 downloads;
+  served from https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0). Entity-specific
+  operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0 (Hugging Face model card; pipeline
-      text-generation; downloads 946602)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0 (Hugging
+      Face model card; pipeline text-generation; downloads 946602)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-generation
 - tinyllama
 slug: tinyllama-tinyllama-1-1b-chat-v1-0
+assigned_id: dea:ai-ml-model-tinyllama-tinyllama-1-1b-chat-v1-0-usb4zx
+admitted: '2026-11-14'

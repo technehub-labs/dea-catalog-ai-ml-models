@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face microsoft/mdeberta-v3-base
 name: microsoft/mdeberta-v3-base
-description: 'microsoft/mdeberta-v3-base — a published model artifact in the Hugging Face public model
-  registry (pipeline: fill-mask; ~5301595 downloads; served from https://huggingface.co/microsoft/mdeberta-v3-base).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'microsoft/mdeberta-v3-base — a published model artifact in the Hugging
+  Face public model registry (pipeline: fill-mask; ~5301595 downloads; served from
+  https://huggingface.co/microsoft/mdeberta-v3-base). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/microsoft/mdeberta-v3-base (Hugging Face model card; pipeline fill-mask;
-      downloads 5301595)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/microsoft/mdeberta-v3-base (Hugging Face model
+      card; pipeline fill-mask; downloads 5301595)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - fill-mask
 - microsoft
 slug: microsoft-mdeberta-v3-base
+assigned_id: dea:ai-ml-model-microsoft-mdeberta-v3-base-jgy2ff
+admitted: '2026-11-14'

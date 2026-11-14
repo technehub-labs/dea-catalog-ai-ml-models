@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face openai/whisper-small
 name: openai/whisper-small
-description: 'openai/whisper-small — a published model artifact in the Hugging Face public model registry
-  (pipeline: automatic-speech-recognition; ~4456416 downloads; served from https://huggingface.co/openai/whisper-small).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'openai/whisper-small — a published model artifact in the Hugging Face
+  public model registry (pipeline: automatic-speech-recognition; ~4456416 downloads;
+  served from https://huggingface.co/openai/whisper-small). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/openai/whisper-small (Hugging Face model card; pipeline automatic-speech-recognition;
-      downloads 4456416)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/openai/whisper-small (Hugging Face model card;
+      pipeline automatic-speech-recognition; downloads 4456416)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - automatic-speech-recognition
 - openai
 slug: openai-whisper-small
+assigned_id: dea:ai-ml-model-openai-whisper-small-wcbgsa
+admitted: '2026-11-14'

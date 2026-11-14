@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP
 name: peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP
-description: 'peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP — a published model artifact in the Hugging
-  Face public model registry (pipeline: image-text-to-text; ~2945610 downloads; served from https://huggingface.co/peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP).
+description: 'peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP — a published model artifact
+  in the Hugging Face public model registry (pipeline: image-text-to-text; ~2945610
+  downloads; served from https://huggingface.co/peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP (Hugging Face model
-      card; pipeline image-text-to-text; downloads 2945610)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP
+      (Hugging Face model card; pipeline image-text-to-text; downloads 2945610)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - peculiar-ragdoll
 slug: peculiar-ragdoll-tiel-coder-35b-a3b-gguf-mtp
+assigned_id: dea:ai-ml-model-peculiar-ragdoll-tiel-coder-35b-a3b-gguf-mtp-6yj8qf
+admitted: '2026-11-14'

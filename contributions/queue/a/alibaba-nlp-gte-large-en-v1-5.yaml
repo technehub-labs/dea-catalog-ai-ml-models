@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face Alibaba-NLP/gte-large-en-v1.5
 name: Alibaba-NLP/gte-large-en-v1.5
-description: 'Alibaba-NLP/gte-large-en-v1.5 — a published model artifact in the Hugging Face public model
-  registry (pipeline: sentence-similarity; ~1690481 downloads; served from https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'Alibaba-NLP/gte-large-en-v1.5 — a published model artifact in the Hugging
+  Face public model registry (pipeline: sentence-similarity; ~1690481 downloads; served
+  from https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5 (Hugging Face model card; pipeline
-      sentence-similarity; downloads 1690481)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5 (Hugging Face
+      model card; pipeline sentence-similarity; downloads 1690481)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - sentence-similarity
 - alibaba-nlp
 slug: alibaba-nlp-gte-large-en-v1-5
+assigned_id: dea:ai-ml-model-alibaba-nlp-gte-large-en-v1-5-5akrd3
+admitted: '2026-11-14'

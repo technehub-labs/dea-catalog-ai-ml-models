@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face openai/clip-vit-base-patch32
 name: openai/clip-vit-base-patch32
-description: 'openai/clip-vit-base-patch32 — a published model artifact in the Hugging Face public model
-  registry (pipeline: zero-shot-image-classification; ~17773045 downloads; served from https://huggingface.co/openai/clip-vit-base-patch32).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'openai/clip-vit-base-patch32 — a published model artifact in the Hugging
+  Face public model registry (pipeline: zero-shot-image-classification; ~17773045
+  downloads; served from https://huggingface.co/openai/clip-vit-base-patch32). Entity-specific
+  operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/openai/clip-vit-base-patch32 (Hugging Face model card; pipeline
-      zero-shot-image-classification; downloads 17773045)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/openai/clip-vit-base-patch32 (Hugging Face model
+      card; pipeline zero-shot-image-classification; downloads 17773045)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - zero-shot-image-classification
 - openai
 slug: openai-clip-vit-base-patch32
+assigned_id: dea:ai-ml-model-openai-clip-vit-base-patch32-965nxx
+admitted: '2026-11-14'

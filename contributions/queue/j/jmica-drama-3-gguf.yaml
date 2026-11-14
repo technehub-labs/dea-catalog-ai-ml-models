@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face Jmica/Drama-3-GGUF
 name: Jmica/Drama-3-GGUF
-description: 'Jmica/Drama-3-GGUF — a published model artifact in the Hugging Face public model registry
-  (pipeline: text-to-speech; ~491244 downloads; served from https://huggingface.co/Jmica/Drama-3-GGUF).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'Jmica/Drama-3-GGUF — a published model artifact in the Hugging Face
+  public model registry (pipeline: text-to-speech; ~491244 downloads; served from
+  https://huggingface.co/Jmica/Drama-3-GGUF). Entity-specific operational fields are
+  provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/Jmica/Drama-3-GGUF (Hugging Face model card; pipeline text-to-speech;
-      downloads 491244)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/Jmica/Drama-3-GGUF (Hugging Face model card;
+      pipeline text-to-speech; downloads 491244)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-to-speech
 - jmica
 slug: jmica-drama-3-gguf
+assigned_id: dea:ai-ml-model-jmica-drama-3-gguf-wjjbn7
+admitted: '2026-11-14'

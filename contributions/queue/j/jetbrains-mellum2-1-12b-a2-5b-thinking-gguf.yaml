@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF
 name: JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF
-description: 'JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF — a published model artifact in the Hugging
-  Face public model registry (pipeline: text-generation; ~397623 downloads; served from https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF).
+description: 'JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF — a published model artifact
+  in the Hugging Face public model registry (pipeline: text-generation; ~397623 downloads;
+  served from https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF (Hugging Face model
-      card; pipeline text-generation; downloads 397623)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF
+      (Hugging Face model card; pipeline text-generation; downloads 397623)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-generation
 - jetbrains
 slug: jetbrains-mellum2-1-12b-a2-5b-thinking-gguf
+assigned_id: dea:ai-ml-model-jetbrains-mellum2-1-12b-a2-5b-thinking-gguf-h2emxs
+admitted: '2026-11-14'

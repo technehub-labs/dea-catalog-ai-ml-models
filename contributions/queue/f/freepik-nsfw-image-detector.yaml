@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face Freepik/nsfw_image_detector
 name: Freepik/nsfw_image_detector
-description: 'Freepik/nsfw_image_detector — a published model artifact in the Hugging Face public model
-  registry (pipeline: image-classification; ~608947 downloads; served from https://huggingface.co/Freepik/nsfw_image_detector).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'Freepik/nsfw_image_detector — a published model artifact in the Hugging
+  Face public model registry (pipeline: image-classification; ~608947 downloads; served
+  from https://huggingface.co/Freepik/nsfw_image_detector). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/Freepik/nsfw_image_detector (Hugging Face model card; pipeline image-classification;
-      downloads 608947)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/Freepik/nsfw_image_detector (Hugging Face model
+      card; pipeline image-classification; downloads 608947)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-classification
 - freepik
 slug: freepik-nsfw-image-detector
+assigned_id: dea:ai-ml-model-freepik-nsfw-image-detector-ureqz7
+admitted: '2026-11-14'

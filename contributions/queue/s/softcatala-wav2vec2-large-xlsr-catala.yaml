@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face softcatala/wav2vec2-large-xlsr-catala
 name: softcatala/wav2vec2-large-xlsr-catala
-description: 'softcatala/wav2vec2-large-xlsr-catala — a published model artifact in the Hugging Face public
-  model registry (pipeline: automatic-speech-recognition; ~505544 downloads; served from https://huggingface.co/softcatala/wav2vec2-large-xlsr-catala).
+description: 'softcatala/wav2vec2-large-xlsr-catala — a published model artifact in
+  the Hugging Face public model registry (pipeline: automatic-speech-recognition;
+  ~505544 downloads; served from https://huggingface.co/softcatala/wav2vec2-large-xlsr-catala).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/softcatala/wav2vec2-large-xlsr-catala (Hugging Face model card;
-      pipeline automatic-speech-recognition; downloads 505544)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/softcatala/wav2vec2-large-xlsr-catala (Hugging
+      Face model card; pipeline automatic-speech-recognition; downloads 505544)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - automatic-speech-recognition
 - softcatala
 slug: softcatala-wav2vec2-large-xlsr-catala
+assigned_id: dea:ai-ml-model-softcatala-wav2vec2-large-xlsr-catala-ec6da8
+admitted: '2026-11-14'

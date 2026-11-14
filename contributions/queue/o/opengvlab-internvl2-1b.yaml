@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face OpenGVLab/InternVL2-1B
 name: OpenGVLab/InternVL2-1B
-description: 'OpenGVLab/InternVL2-1B — a published model artifact in the Hugging Face public model registry
-  (pipeline: image-text-to-text; ~1100627 downloads; served from https://huggingface.co/OpenGVLab/InternVL2-1B).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'OpenGVLab/InternVL2-1B — a published model artifact in the Hugging Face
+  public model registry (pipeline: image-text-to-text; ~1100627 downloads; served
+  from https://huggingface.co/OpenGVLab/InternVL2-1B). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/OpenGVLab/InternVL2-1B (Hugging Face model card; pipeline image-text-to-text;
-      downloads 1100627)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/OpenGVLab/InternVL2-1B (Hugging Face model card;
+      pipeline image-text-to-text; downloads 1100627)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - opengvlab
 slug: opengvlab-internvl2-1b
+assigned_id: dea:ai-ml-model-opengvlab-internvl2-1b-myqr48
+admitted: '2026-11-14'

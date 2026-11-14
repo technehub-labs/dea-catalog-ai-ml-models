@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face Xenova/multilingual-e5-small
 name: Xenova/multilingual-e5-small
-description: 'Xenova/multilingual-e5-small — a published model artifact in the Hugging Face public model
-  registry (pipeline: feature-extraction; ~466204 downloads; served from https://huggingface.co/Xenova/multilingual-e5-small).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'Xenova/multilingual-e5-small — a published model artifact in the Hugging
+  Face public model registry (pipeline: feature-extraction; ~466204 downloads; served
+  from https://huggingface.co/Xenova/multilingual-e5-small). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/Xenova/multilingual-e5-small (Hugging Face model card; pipeline
-      feature-extraction; downloads 466204)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/Xenova/multilingual-e5-small (Hugging Face model
+      card; pipeline feature-extraction; downloads 466204)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - feature-extraction
 - xenova
 slug: xenova-multilingual-e5-small
+assigned_id: dea:ai-ml-model-xenova-multilingual-e5-small-6usv23
+admitted: '2026-11-14'

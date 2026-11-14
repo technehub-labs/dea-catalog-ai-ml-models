@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face mradermacher/AdaVaR-3B-GGUF
 name: mradermacher/AdaVaR-3B-GGUF
-description: 'mradermacher/AdaVaR-3B-GGUF — a published model artifact in the Hugging Face public model
-  registry (pipeline: unspecified; ~857519 downloads; served from https://huggingface.co/mradermacher/AdaVaR-3B-GGUF).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'mradermacher/AdaVaR-3B-GGUF — a published model artifact in the Hugging
+  Face public model registry (pipeline: unspecified; ~857519 downloads; served from
+  https://huggingface.co/mradermacher/AdaVaR-3B-GGUF). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/mradermacher/AdaVaR-3B-GGUF (Hugging Face model card; pipeline unspecified;
-      downloads 857519)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/mradermacher/AdaVaR-3B-GGUF (Hugging Face model
+      card; pipeline unspecified; downloads 857519)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - unspecified
 - mradermacher
 slug: mradermacher-adavar-3b-gguf
+assigned_id: dea:ai-ml-model-mradermacher-adavar-3b-gguf-vudr6j
+admitted: '2026-11-14'

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face timm/convnext_base.fb_in22k_ft_in1k
 name: timm/convnext_base.fb_in22k_ft_in1k
-description: 'timm/convnext_base.fb_in22k_ft_in1k — a published model artifact in the Hugging Face public
-  model registry (pipeline: image-classification; ~418673 downloads; served from https://huggingface.co/timm/convnext_base.fb_in22k_ft_in1k).
+description: 'timm/convnext_base.fb_in22k_ft_in1k — a published model artifact in
+  the Hugging Face public model registry (pipeline: image-classification; ~418673
+  downloads; served from https://huggingface.co/timm/convnext_base.fb_in22k_ft_in1k).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/timm/convnext_base.fb_in22k_ft_in1k (Hugging Face model card; pipeline
-      image-classification; downloads 418673)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/timm/convnext_base.fb_in22k_ft_in1k (Hugging
+      Face model card; pipeline image-classification; downloads 418673)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-classification
 - timm
 slug: timm-convnext-base-fb-in22k-ft-in1k
+assigned_id: dea:ai-ml-model-timm-convnext-base-fb-in22k-ft-in1k-3vu92c
+admitted: '2026-11-14'

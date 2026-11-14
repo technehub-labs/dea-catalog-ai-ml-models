@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face llava-hf/llava-1.5-7b-hf
 name: llava-hf/llava-1.5-7b-hf
-description: 'llava-hf/llava-1.5-7b-hf — a published model artifact in the Hugging Face public model registry
-  (pipeline: image-text-to-text; ~651439 downloads; served from https://huggingface.co/llava-hf/llava-1.5-7b-hf).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'llava-hf/llava-1.5-7b-hf — a published model artifact in the Hugging
+  Face public model registry (pipeline: image-text-to-text; ~651439 downloads; served
+  from https://huggingface.co/llava-hf/llava-1.5-7b-hf). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/llava-hf/llava-1.5-7b-hf (Hugging Face model card; pipeline image-text-to-text;
-      downloads 651439)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/llava-hf/llava-1.5-7b-hf (Hugging Face model
+      card; pipeline image-text-to-text; downloads 651439)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - image-text-to-text
 - llava-hf
 slug: llava-hf-llava-1-5-7b-hf
+assigned_id: dea:ai-ml-model-llava-hf-llava-1-5-7b-hf-4qne5u
+admitted: '2026-11-14'

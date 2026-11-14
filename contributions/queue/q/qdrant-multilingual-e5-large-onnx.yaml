@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face Qdrant/multilingual-e5-large-onnx
 name: Qdrant/multilingual-e5-large-onnx
-description: 'Qdrant/multilingual-e5-large-onnx — a published model artifact in the Hugging Face public
-  model registry (pipeline: sentence-similarity; ~1203858 downloads; served from https://huggingface.co/Qdrant/multilingual-e5-large-onnx).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'Qdrant/multilingual-e5-large-onnx — a published model artifact in the
+  Hugging Face public model registry (pipeline: sentence-similarity; ~1203858 downloads;
+  served from https://huggingface.co/Qdrant/multilingual-e5-large-onnx). Entity-specific
+  operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/Qdrant/multilingual-e5-large-onnx (Hugging Face model card; pipeline
-      sentence-similarity; downloads 1203858)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/Qdrant/multilingual-e5-large-onnx (Hugging Face
+      model card; pipeline sentence-similarity; downloads 1203858)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - sentence-similarity
 - qdrant
 slug: qdrant-multilingual-e5-large-onnx
+assigned_id: dea:ai-ml-model-qdrant-multilingual-e5-large-onnx-y5dfn6
+admitted: '2026-11-14'

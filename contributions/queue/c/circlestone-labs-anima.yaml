@@ -1,21 +1,23 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face circlestone-labs/Anima
 name: circlestone-labs/Anima
-description: 'circlestone-labs/Anima — a published model artifact in the Hugging Face public model registry
-  (pipeline: unspecified; ~2068563 downloads; served from https://huggingface.co/circlestone-labs/Anima).
+description: 'circlestone-labs/Anima — a published model artifact in the Hugging Face
+  public model registry (pipeline: unspecified; ~2068563 downloads; served from https://huggingface.co/circlestone-labs/Anima).
   Entity-specific operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/circlestone-labs/Anima (Hugging Face model card; pipeline unspecified;
-      downloads 2068563)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/circlestone-labs/Anima (Hugging Face model card;
+      pipeline unspecified; downloads 2068563)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - unspecified
 - circlestone-labs
 slug: circlestone-labs-anima
+assigned_id: dea:ai-ml-model-circlestone-labs-anima-ph6jbf
+admitted: '2026-11-14'

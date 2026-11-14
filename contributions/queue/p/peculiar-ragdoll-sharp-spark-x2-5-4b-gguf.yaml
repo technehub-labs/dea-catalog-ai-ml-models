@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF
 name: peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF
-description: 'peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF — a published model artifact in the Hugging Face
-  public model registry (pipeline: text-generation; ~874460 downloads; served from https://huggingface.co/peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF — a published model artifact
+  in the Hugging Face public model registry (pipeline: text-generation; ~874460 downloads;
+  served from https://huggingface.co/peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF). Entity-specific
+  operational fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF (Hugging Face model card;
-      pipeline text-generation; downloads 874460)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF (Hugging
+      Face model card; pipeline text-generation; downloads 874460)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-generation
 - peculiar-ragdoll
 slug: peculiar-ragdoll-sharp-spark-x2-5-4b-gguf
+assigned_id: dea:ai-ml-model-peculiar-ragdoll-sharp-spark-x2-5-4b-gguf-4xqcz8
+admitted: '2026-11-14'

@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face CompVis/stable-diffusion-v1-4
 name: CompVis/stable-diffusion-v1-4
-description: 'CompVis/stable-diffusion-v1-4 — a published model artifact in the Hugging Face public model
-  registry (pipeline: text-to-image; ~449529 downloads; served from https://huggingface.co/CompVis/stable-diffusion-v1-4).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'CompVis/stable-diffusion-v1-4 — a published model artifact in the Hugging
+  Face public model registry (pipeline: text-to-image; ~449529 downloads; served from
+  https://huggingface.co/CompVis/stable-diffusion-v1-4). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/CompVis/stable-diffusion-v1-4 (Hugging Face model card; pipeline
-      text-to-image; downloads 449529)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/CompVis/stable-diffusion-v1-4 (Hugging Face
+      model card; pipeline text-to-image; downloads 449529)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-to-image
 - compvis
 slug: compvis-stable-diffusion-v1-4
+assigned_id: dea:ai-ml-model-compvis-stable-diffusion-v1-4-2umkq8
+admitted: '2026-11-14'

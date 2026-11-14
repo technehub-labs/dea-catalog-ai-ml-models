@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face Helsinki-NLP/opus-mt-en-ru
 name: Helsinki-NLP/opus-mt-en-ru
-description: 'Helsinki-NLP/opus-mt-en-ru — a published model artifact in the Hugging Face public model
-  registry (pipeline: translation; ~622028 downloads; served from https://huggingface.co/Helsinki-NLP/opus-mt-en-ru).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'Helsinki-NLP/opus-mt-en-ru — a published model artifact in the Hugging
+  Face public model registry (pipeline: translation; ~622028 downloads; served from
+  https://huggingface.co/Helsinki-NLP/opus-mt-en-ru). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/Helsinki-NLP/opus-mt-en-ru (Hugging Face model card; pipeline translation;
-      downloads 622028)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/Helsinki-NLP/opus-mt-en-ru (Hugging Face model
+      card; pipeline translation; downloads 622028)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - translation
 - helsinki-nlp
 slug: helsinki-nlp-opus-mt-en-ru
+assigned_id: dea:ai-ml-model-helsinki-nlp-opus-mt-en-ru-cbhqcx
+admitted: '2026-11-14'

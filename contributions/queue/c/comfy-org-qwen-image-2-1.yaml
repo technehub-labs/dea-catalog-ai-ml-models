@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face Comfy-Org/Qwen-Image-2.1
 name: Comfy-Org/Qwen-Image-2.1
-description: 'Comfy-Org/Qwen-Image-2.1 — a published model artifact in the Hugging Face public model registry
-  (pipeline: text-to-image; ~9923921 downloads; served from https://huggingface.co/Comfy-Org/Qwen-Image-2.1).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'Comfy-Org/Qwen-Image-2.1 — a published model artifact in the Hugging
+  Face public model registry (pipeline: text-to-image; ~9923921 downloads; served
+  from https://huggingface.co/Comfy-Org/Qwen-Image-2.1). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/Comfy-Org/Qwen-Image-2.1 (Hugging Face model card; pipeline text-to-image;
-      downloads 9923921)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/Comfy-Org/Qwen-Image-2.1 (Hugging Face model
+      card; pipeline text-to-image; downloads 9923921)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-to-image
 - comfy-org
 slug: comfy-org-qwen-image-2-1
+assigned_id: dea:ai-ml-model-comfy-org-qwen-image-2-1-extpyf
+admitted: '2026-11-14'

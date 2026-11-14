@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: hf-models.json
 source_ref: Hugging Face BAAI/bge-reranker-base
 name: BAAI/bge-reranker-base
-description: 'BAAI/bge-reranker-base — a published model artifact in the Hugging Face public model registry
-  (pipeline: text-classification; ~2230000 downloads; served from https://huggingface.co/BAAI/bge-reranker-base).
-  Entity-specific operational fields are provisional candidate values.'
+description: 'BAAI/bge-reranker-base — a published model artifact in the Hugging Face
+  public model registry (pipeline: text-classification; ~2230000 downloads; served
+  from https://huggingface.co/BAAI/bge-reranker-base). Entity-specific operational
+  fields are provisional candidate values.'
 evidence:
   sources:
   - kind: published-document
-    reference: https://huggingface.co/BAAI/bge-reranker-base (Hugging Face model card; pipeline text-classification;
-      downloads 2230000)
-  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
-    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
-    at candidate state.
+    reference: https://huggingface.co/BAAI/bge-reranker-base (Hugging Face model card;
+      pipeline text-classification; downloads 2230000)
+  rationale: Cited from the Hugging Face public model registry (API listing). The
+    artifact is published and machine-verifiable at the cited model card URL. No AIMLModel-specific
+    operational fields are asserted at candidate state.
 tags:
 - text-classification
 - baai
 slug: baai-bge-reranker-base
+assigned_id: dea:ai-ml-model-baai-bge-reranker-base-dkttne
+admitted: '2026-11-14'
