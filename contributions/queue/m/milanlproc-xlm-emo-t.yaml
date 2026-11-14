@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face MilaNLProc/xlm-emo-t
+name: MilaNLProc/xlm-emo-t
+description: 'MilaNLProc/xlm-emo-t — a published model artifact in the Hugging Face public model registry
+  (pipeline: text-classification; ~487849 downloads; served from https://huggingface.co/MilaNLProc/xlm-emo-t).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/MilaNLProc/xlm-emo-t (Hugging Face model card; pipeline text-classification;
+      downloads 487849)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- text-classification
+- milanlproc
+slug: milanlproc-xlm-emo-t

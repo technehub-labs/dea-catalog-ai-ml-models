@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face autotrust/AutoTrust-Decider-Pro-35B-NVFP4
+name: autotrust/AutoTrust-Decider-Pro-35B-NVFP4
+description: 'autotrust/AutoTrust-Decider-Pro-35B-NVFP4 — a published model artifact in the Hugging Face
+  public model registry (pipeline: text-classification; ~404438 downloads; served from https://huggingface.co/autotrust/AutoTrust-Decider-Pro-35B-NVFP4).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/autotrust/AutoTrust-Decider-Pro-35B-NVFP4 (Hugging Face model card;
+      pipeline text-classification; downloads 404438)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- text-classification
+- autotrust
+slug: autotrust-autotrust-decider-pro-35b-nvfp4

@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face ai-forever/FRIDA
+name: ai-forever/FRIDA
+description: 'ai-forever/FRIDA — a published model artifact in the Hugging Face public model registry
+  (pipeline: feature-extraction; ~689039 downloads; served from https://huggingface.co/ai-forever/FRIDA).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/ai-forever/FRIDA (Hugging Face model card; pipeline feature-extraction;
+      downloads 689039)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- feature-extraction
+- ai-forever
+slug: ai-forever-frida

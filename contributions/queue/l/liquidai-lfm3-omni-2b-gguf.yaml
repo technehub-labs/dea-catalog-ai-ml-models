@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face LiquidAI/LFM3-Omni-2B-GGUF
+name: LiquidAI/LFM3-Omni-2B-GGUF
+description: 'LiquidAI/LFM3-Omni-2B-GGUF — a published model artifact in the Hugging Face public model
+  registry (pipeline: any-to-any; ~447145 downloads; served from https://huggingface.co/LiquidAI/LFM3-Omni-2B-GGUF).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/LiquidAI/LFM3-Omni-2B-GGUF (Hugging Face model card; pipeline any-to-any;
+      downloads 447145)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- any-to-any
+- liquidai
+slug: liquidai-lfm3-omni-2b-gguf

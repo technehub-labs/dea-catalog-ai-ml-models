@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face zai-org/chatglm2-6b
+name: zai-org/chatglm2-6b
+description: 'zai-org/chatglm2-6b — a published model artifact in the Hugging Face public model registry
+  (pipeline: unspecified; ~488409 downloads; served from https://huggingface.co/zai-org/chatglm2-6b).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/zai-org/chatglm2-6b (Hugging Face model card; pipeline unspecified;
+      downloads 488409)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- unspecified
+- zai-org
+slug: zai-org-chatglm2-6b

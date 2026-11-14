@@ -1,0 +1,21 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: hf-models.json
+source_ref: Hugging Face Qwen/Qwen2.5-VL-7B-Instruct-AWQ
+name: Qwen/Qwen2.5-VL-7B-Instruct-AWQ
+description: 'Qwen/Qwen2.5-VL-7B-Instruct-AWQ — a published model artifact in the Hugging Face public
+  model registry (pipeline: image-text-to-text; ~1039088 downloads; served from https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct-AWQ).
+  Entity-specific operational fields are provisional candidate values.'
+evidence:
+  sources:
+  - kind: published-document
+    reference: https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct-AWQ (Hugging Face model card; pipeline
+      image-text-to-text; downloads 1039088)
+  rationale: Cited from the Hugging Face public model registry (API listing). The artifact is published
+    and machine-verifiable at the cited model card URL. No AIMLModel-specific operational fields are asserted
+    at candidate state.
+tags:
+- image-text-to-text
+- qwen
+slug: qwen-qwen2-5-vl-7b-instruct-awq
